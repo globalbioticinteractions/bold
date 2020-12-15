@@ -1,1 +1,35 @@
 provided_interaction_type_label,provided_interaction_type_id,mapped_to_interaction_type_label,mapped_to_interaction_type_id
+Parasite,,hasParasite,http://purl.obolibrary.org/obo/RO_0002445
+Parasitoid,,hasParasitoid,http://purl.obolibrary.org/obo/RO_0002209
+plant host,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+host plant,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+Found_on_plant,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Prey,,preysOn,http://purl.obolibrary.org/obo/RO_0002439
+Hostplant,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+commensal,,commensuallyInteractsWith,http://purl.obolibrary.org/obo/RO_0002441
+Food,,eats,http://purl.obolibrary.org/obo/RO_0002470
+Host plant,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+Food plant of host,,eats,http://purl.obolibrary.org/obo/RO_0002470
+Association,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+prey,,preysOn,http://purl.obolibrary.org/obo/RO_0002439
+parasitoid,,hasParasitoid,http://purl.obolibrary.org/obo/RO_0002209
+floral host,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+Associated,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Phoretic,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+parasite,,hasParasite,http://purl.obolibrary.org/obo/RO_0002445
+parasitoid of,,parasitoidOf,http://purl.obolibrary.org/obo/RO_0002208
+Host Plant,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+Host Gall,,hasHost,http://purl.obolibrary.org/obo/RO_0002454
+Found at,,coOccursWith,http://purl.obolibrary.org/obo/RO_0008506
+food plant,,eats,http://purl.obolibrary.org/obo/RO_0002470
+At flowers of,,visitsFlowersOf,http://purl.obolibrary.org/obo/RO_0002622
+Two closely related species were collected from the same site.,,coOccursWith,http://purl.obolibrary.org/obo/RO_0008506
+Prey of,,preyedUponBy,http://purl.obolibrary.org/obo/RO_0002458
+pathogen,,pathogenOf,http://purl.obolibrary.org/obo/RO_0002556
+parasitic on,,parasiteOf,http://purl.obolibrary.org/obo/RO_0002444
+In same larval habitat,,coOccursWith,http://purl.obolibrary.org/obo/RO_0008506
+galler,,interactsWith,http://purl.obolibrary.org/obo/RO_0002437
+Cultured on,,coOccursWith,http://purl.obolibrary.org/obo/RO_0008506
+Collected in same sample,,coOccursWith,http://purl.obolibrary.org/obo/RO_0008506
+Collected in same pond,,coOccursWith,http://purl.obolibrary.org/obo/RO_0008506
+Collected at same location and time,,coOccursWith,http://purl.obolibrary.org/obo/RO_0008506
