@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/globalbioticinteractions/ibol.svg)](https://travis-ci.com/globalbioticinteractions/ibol) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/ibol)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/ibol) 
+[![Build Status](https://travis-ci.com/globalbioticinteractions/bold.svg)](https://travis-ci.com/globalbioticinteractions/bold) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/bold)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/bold) 
 
 
 Configuration to help make the occurrence records of The International Barcode of Life Consortium (iBOL, http://www.ibol.org/) searchable through Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
