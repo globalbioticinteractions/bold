@@ -1,0 +1,344 @@
+{
+  "columns": [
+    {
+      "name": "processid",
+      "titles": "processid",
+      "datatype": "string"
+    },
+    {
+      "name": "occurrenceId",
+      "titles": "sampleid",
+      "datatype": "string"
+    },
+    {
+      "name": "recordID",
+      "titles": "recordID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceCatalogNumber",
+      "titles": "catalognum",
+      "datatype": "string"
+    },
+    {
+      "name": "fieldnum",
+      "titles": "fieldnum",
+      "datatype": "string"
+    },
+    {
+      "name": "institution_storing",
+      "titles": "institution_storing",
+      "datatype": "string"
+    },
+    {
+      "name": "collectionCode",
+      "titles": "collection_code",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonId",
+      "titles": "bin_uri",
+      "datatype": "string"
+    },
+    {
+      "name": "phylum_taxID",
+      "titles": "phylum_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonPhylum",
+      "titles": "phylum_name",
+      "datatype": "string"
+    },
+    {
+      "name": "class_taxID",
+      "titles": "class_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonClass",
+      "titles": "class_name",
+      "datatype": "string"
+    },
+    {
+      "name": "order_taxID",
+      "titles": "order_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonOrder",
+      "titles": "order_name",
+      "datatype": "string"
+    },
+    {
+      "name": "family_taxID",
+      "titles": "family_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonFamily",
+      "titles": "family_name",
+      "datatype": "string"
+    },
+    {
+      "name": "subfamily_taxID",
+      "titles": "subfamily_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSubfamily",
+      "titles": "subfamily_name",
+      "datatype": "string"
+    },
+    {
+      "name": "genus_taxID",
+      "titles": "genus_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonGenus",
+      "titles": "genus_name",
+      "datatype": "string"
+    },
+    {
+      "name": "species_taxID",
+      "titles": "species_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSpecies",
+      "titles": "species_name",
+      "datatype": "string"
+    },
+    {
+      "name": "subspecies_taxID",
+      "titles": "subspecies_taxID",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceTaxonSpecificEpithet",
+      "titles": "subspecies_name",
+      "datatype": "string"
+    },
+    {
+      "name": "identification_provided_by",
+      "titles": "identification_provided_by",
+      "datatype": "string"
+    },
+    {
+      "name": "identification_method",
+      "titles": "identification_method",
+      "datatype": "string"
+    },
+    {
+      "name": "identification_reference",
+      "titles": "identification_reference",
+      "datatype": "string"
+    },
+    {
+      "name": "tax_note",
+      "titles": "tax_note",
+      "datatype": "string"
+    },
+    {
+      "name": "voucher_status",
+      "titles": "voucher_status",
+      "datatype": "string"
+    },
+    {
+      "name": "tissue_type",
+      "titles": "tissue_type",
+      "datatype": "string"
+    },
+    {
+      "name": "collection_event_id",
+      "titles": "collection_event_id",
+      "datatype": "string"
+    },
+    {
+      "name": "collectors",
+      "titles": "collectors",
+      "datatype": "string"
+    },
+    {
+      "name": "eventDate",
+      "titles": "collectiondate_start",
+      "datatype": "string"
+    },
+    {
+      "name": "collectiondate_end",
+      "titles": "collectiondate_end",
+      "datatype": "string"
+    },
+    {
+      "name": "collectiontime",
+      "titles": "collectiontime",
+      "datatype": "string"
+    },
+    {
+      "name": "collection_note",
+      "titles": "collection_note",
+      "datatype": "string"
+    },
+    {
+      "name": "site_code",
+      "titles": "site_code",
+      "datatype": "string"
+    },
+    {
+      "name": "sampling_protocol",
+      "titles": "sampling_protocol",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceLifeStageName",
+      "titles": "lifestage",
+      "datatype": "string"
+    },
+    {
+      "name": "sourceSexName",
+      "titles": "sex",
+      "datatype": "string"
+    },
+    {
+      "name": "reproduction",
+      "titles": "reproduction",
+      "datatype": "string"
+    },
+    {
+      "name": "habitatName",
+      "titles": "habitat",
+      "datatype": "string"
+    },
+    {
+      "name": "associatedSpecimens",
+      "titles": "associated_specimens",
+      "datatype": "string"
+    },
+    {
+      "name": "associatedTaxa",
+      "titles": "associated_taxa",
+      "datatype": "string"
+    },
+    {
+      "name": "extrainfo",
+      "titles": "extrainfo",
+      "datatype": "string"
+    },
+    {
+      "name": "notes",
+      "titles": "notes",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLatitude",
+      "titles": "lat",
+      "datatype": "string"
+    },
+    {
+      "name": "decimalLongitude",
+      "titles": "lon",
+      "datatype": "string"
+    },
+    {
+      "name": "coord_source",
+      "titles": "coord_source",
+      "datatype": "string"
+    },
+    {
+      "name": "coord_accuracy",
+      "titles": "coord_accuracy",
+      "datatype": "string"
+    },
+    {
+      "name": "altitude",
+      "titles": "elev",
+      "datatype": "string"
+    },
+    {
+      "name": "depth",
+      "titles": "depth",
+      "datatype": "string"
+    },
+    {
+      "name": "elev_accuracy",
+      "titles": "elev_accuracy",
+      "datatype": "string"
+    },
+    {
+      "name": "depth_accuracy",
+      "titles": "depth_accuracy",
+      "datatype": "string"
+    },
+    {
+      "name": "country",
+      "titles": "country",
+      "datatype": "string"
+    },
+    {
+      "name": "province_state",
+      "titles": "province_state",
+      "datatype": "string"
+    },
+    {
+      "name": "region",
+      "titles": "region",
+      "datatype": "string"
+    },
+    {
+      "name": "sector",
+      "titles": "sector",
+      "datatype": "string"
+    },
+    {
+      "name": "localityName",
+      "titles": "exactsite",
+      "datatype": "string"
+    },
+    {
+      "name": "image_ids",
+      "titles": "image_ids",
+      "datatype": "string"
+    },
+    {
+      "name": "image_urls",
+      "titles": "image_urls",
+      "datatype": "string"
+    },
+    {
+      "name": "media_descriptors",
+      "titles": "media_descriptors",
+      "datatype": "string"
+    },
+    {
+      "name": "captions",
+      "titles": "captions",
+      "datatype": "string"
+    },
+    {
+      "name": "copyright_holders",
+      "titles": "copyright_holders",
+      "datatype": "string"
+    },
+    {
+      "name": "copyright_years",
+      "titles": "copyright_years",
+      "datatype": "string"
+    },
+    {
+      "name": "copyright_licenses",
+      "titles": "copyright_licenses",
+      "datatype": "string"
+    },
+    {
+      "name": "copyright_institutions",
+      "titles": "copyright_institutions",
+      "datatype": "string"
+    },
+    {
+      "name": "photographers",
+      "titles": "photographers",
+      "datatype": "string"
+    }
+  ]
+}
